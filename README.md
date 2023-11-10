@@ -1,0 +1,2 @@
+# CharacterScanner
+AI project
